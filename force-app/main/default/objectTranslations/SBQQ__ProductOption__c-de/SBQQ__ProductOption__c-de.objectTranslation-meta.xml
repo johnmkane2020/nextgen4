@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>false</plural>
+        <value>Produktoption</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>true</plural>
+        <value>Produktoptionen</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Accusative</caseType>
+        <plural>false</plural>
+        <value></value>
+    </caseValues>
+    <caseValues>
+        <caseType>Accusative</caseType>
+        <plural>true</plural>
+        <value></value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>false</plural>
+        <value></value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>true</plural>
+        <value></value>
+    </caseValues>
+    <caseValues>
+        <caseType>Dative</caseType>
+        <plural>false</plural>
+        <value></value>
+    </caseValues>
+    <caseValues>
+        <caseType>Dative</caseType>
+        <plural>true</plural>
+        <value></value>
+    </caseValues>
+    <fieldSets>
+        <label></label>
+        <name>SBQQ__OptionConfiguration</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>SBQQ__OptionLookup</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>SBQQ__SearchFilters</name>
+    </fieldSets>
+    <gender>Feminine</gender>
+    <layouts>
+        <layout>Product Option Layout</layout>
+        <sections>
+            <label>Erweiterte Einstellungen</label>
+            <section>Advanced Settings</section>
+        </sections>
+        <sections>
+            <label>Benutzerdefinierte Links</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Optionale SKU-Informationen</label>
+            <section>Optional SKU Information</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel>Name der Option</nameFieldLabel>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>SBQQ__Apply_Immediately_Context_Validation</name>
+    </validationRules>
+    <webLinks>
+        <label></label>
+        <name>SBQQ__Translate</name>
+    </webLinks>
+</CustomObjectTranslation>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layouts>
+        <layout>CPQ Opportunity Layout</layout>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Recalculating</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Salesforce CPQ Information</section>
+        </sections>
+    </layouts>
+    <webLinks>
+        <label></label>
+        <name>SBQQ__Amend_Assets</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>SBQQ__Amend_Contract</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>SBQQ__CreateOrder</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>SBQQ__Include_Document</name>
+    </webLinks>
+</CustomObjectTranslation>
