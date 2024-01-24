@@ -31,6 +31,10 @@
                 <behavior>Edit</behavior>
                 <field>SBQQ__TestedConfigurationAttribute__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
+                <field>Copado_External_ID__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
