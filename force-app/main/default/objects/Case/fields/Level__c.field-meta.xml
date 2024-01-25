@@ -3,7 +3,7 @@
     <fullName>Level__c</fullName>
     <externalId>false</externalId>
     <label>Level</label>
-    <precision>1</precision>
+    <precision>4</precision>
     <required>false</required>
     <scale>0</scale>
     <trackFeedHistory>false</trackFeedHistory>
