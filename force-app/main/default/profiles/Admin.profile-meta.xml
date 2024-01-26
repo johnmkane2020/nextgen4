@@ -27460,6 +27460,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>copado__Promotion__c.DevOps__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>copado__Promotion__c.cmcSf__Apex_Test_Level__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -33590,15 +33595,6 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
-        <object>copado__Promotion__c</object>
-        <viewAllRecords>true</viewAllRecords>
-    </objectPermissions>
-    <objectPermissions>
-        <allowCreate>true</allowCreate>
-        <allowDelete>true</allowDelete>
-        <allowEdit>true</allowEdit>
-        <allowRead>true</allowRead>
-        <modifyAllRecords>true</modifyAllRecords>
         <object>copado__Pull_Request_Review__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
@@ -35860,10 +35856,6 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>copado__Project__c</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>copado__Promotion__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
