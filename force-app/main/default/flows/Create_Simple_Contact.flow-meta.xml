@@ -44,6 +44,11 @@
         <connector>
             <targetReference>Create_Contact</targetReference>
         </connector>
+        <filterLogic>or</filterLogic>
+        <filters>
+            <field>AccountId</field>
+            <operator>IsNull</operator>
+        </filters>
         <object>Contact</object>
         <recordTriggerType>Create</recordTriggerType>
         <triggerType>RecordAfterSave</triggerType>
