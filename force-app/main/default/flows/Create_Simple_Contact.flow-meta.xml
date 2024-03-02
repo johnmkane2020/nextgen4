@@ -47,7 +47,10 @@
         <filterLogic>or</filterLogic>
         <filters>
             <field>AccountId</field>
-            <operator>IsNull</operator>
+            <operator>Contains</operator>
+            <value>
+                <booleanValue>false</booleanValue>
+            </value>
         </filters>
         <object>Contact</object>
         <recordTriggerType>Create</recordTriggerType>
