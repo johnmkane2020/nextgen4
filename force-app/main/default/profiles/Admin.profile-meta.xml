@@ -29729,6 +29729,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>copado__User_Story__c.Approved_By__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>copado__User_Story__c.My_User_Story__c</field>
         <readable>false</readable>
@@ -34054,13 +34059,13 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
-        <allowCreate>true</allowCreate>
-        <allowDelete>true</allowDelete>
-        <allowEdit>true</allowEdit>
-        <allowRead>true</allowRead>
-        <modifyAllRecords>true</modifyAllRecords>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>false</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
         <object>copado__User_Story__c</object>
-        <viewAllRecords>true</viewAllRecords>
+        <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
         <allowCreate>true</allowCreate>
@@ -35989,10 +35994,6 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>copado__User_Story_Task__c</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>copado__User_Story__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
