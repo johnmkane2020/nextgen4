@@ -3,9 +3,9 @@
     <fullName>Scale__c</fullName>
     <externalId>false</externalId>
     <label>Scale</label>
-    <precision>4</precision>
+    <precision>1</precision>
     <required>false</required>
-    <scale>2</scale>
+    <scale>0</scale>
     <trackFeedHistory>false</trackFeedHistory>
     <trackTrending>false</trackTrending>
     <type>Number</type>
