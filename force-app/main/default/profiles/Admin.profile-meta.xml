@@ -35596,6 +35596,10 @@
         <visible>false</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
+        <tab>Bicycle__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>DevOps_Exchange_by_Copado</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
