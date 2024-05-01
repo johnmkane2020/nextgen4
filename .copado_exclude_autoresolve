@@ -7,3 +7,5 @@
 **/classes/*.cls
 **/triggers/**
 **/flows/*.flow-meta.xml
+**/pages/*.page
+**/layouts/*.layout-meta.xml
