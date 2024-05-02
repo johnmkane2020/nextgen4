@@ -9,3 +9,4 @@
 **/flows/*.flow-meta.xml
 **/pages/*.page
 **/layouts/*.layout-meta.xml
+**/profiles/*.profile-meta.xml
