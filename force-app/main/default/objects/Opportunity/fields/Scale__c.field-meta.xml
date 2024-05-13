@@ -3,7 +3,7 @@
     <fullName>Scale__c</fullName>
     <externalId>false</externalId>
     <label>Scale</label>
-    <precision>3</precision>
+    <precision>1</precision>
     <required>false</required>
     <scale>0</scale>
     <trackFeedHistory>false</trackFeedHistory>
