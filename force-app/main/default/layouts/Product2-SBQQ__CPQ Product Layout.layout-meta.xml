@@ -9,10 +9,6 @@
         <layoutColumns>
             <layoutItems>
                 <behavior>Required</behavior>
-                <field>Copado_External_ID__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Required</behavior>
                 <field>Name</field>
             </layoutItems>
             <layoutItems>
@@ -320,9 +316,6 @@
         <layoutColumns/>
         <style>CustomLinks</style>
     </layoutSections>
-    <miniLayout>
-        <fields>Copado_External_ID__c</fields>
-    </miniLayout>
     <relatedLists>
         <customButtons>SBQQ__EditAll</customButtons>
         <fields>NAME</fields>
