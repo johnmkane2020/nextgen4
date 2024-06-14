@@ -24,7 +24,7 @@
                 <field>ParentId</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Required</behavior>
+                <behavior>Edit</behavior>
                 <field>Copado_External_ID__c</field>
             </layoutItems>
             <layoutItems>
