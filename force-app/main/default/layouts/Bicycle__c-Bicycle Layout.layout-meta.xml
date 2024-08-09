@@ -18,6 +18,10 @@
                 <behavior>Edit</behavior>
                 <field>Skill_Rating__c</field>
             </layoutItems>
+           <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Bike_Size__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
